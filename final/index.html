@@ -14,6 +14,14 @@
         background-image: url('mew-back.jpg');
     }
 </style>
+
+<!-- Popover Code -->
+<script>
+  $(document).ready(function(){
+    $('[data-toggle="popover"]').popover();
+  });
+  </script>
+
 <title>Meshjue's Portfolio</title>
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
@@ -116,7 +124,7 @@ Fast Movement Speed <br> Floater </div>
                   Movement
                 </button>
                 <div class="dropdown-menu">
-                  <a class="dropdown-item" href="#">Walking</a>
+                  <a class="dropdown-item" href="#" data-toggle="popover" title="Popover Header" data-content="Some content inside the popover">Walking>Walking</a>
                   <a class="dropdown-item" href="#">Running</a>
                   <a class="dropdown-item" href="#">Jumping</a>
                 </div>
@@ -128,7 +136,7 @@ Fast Movement Speed <br> Floater </div>
               Ground Attacks
             </button>
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="#"> Jab </a>
+              <a class="dropdown-item" href="#" data-toggle="popover"> Jab </a>
               <a class="dropdown-item" href="#">Tail Whip (Side Tilt)</a>
               <a class="dropdown-item" href="#">Tail Whip (Up Tilt)</a>
               <a class="dropdown-item" href="#">Tail Whip (Down Tilt)</a>
