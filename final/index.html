@@ -124,10 +124,21 @@ Fast Movement Speed <br> Floater </div>
                   Movement
                 </button>
                 <div class="dropdown-menu">
-                  <a class="dropdown-item" href="walking.gif" data-toggle="popover" title="Walking" data-content="Some content inside the popover">Walking</a>
-                  <a class="dropdown-item" href="#">Running</a>
-                  <a class="dropdown-item" href="#">Jumping</a>
+                  <div class="modal fade" id="myModal">
+                    <div class="modal-dialog">
+                      <div class= "modal-header">
+                        <h1>Walking</h1>
+                      </div>
+                      <div class="modal-body">
+                        <img src=walking.gif alt=walking style="width:1280px;height:720px;">
+                      </div>
+                      <div class="modal-footer">
+                        <input class="btn btn default" data-dismiss="modal" value="Close">
+                      </div>
+                    </div>
+                  </div>
                 </div>
+                <a href="#" data-toggle="modal" data-target="#myModal">Walking</a>
               </div>
         </div>
         <div class="col-2"></div> <!--Jabs + Tilts-->
