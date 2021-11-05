@@ -1,0 +1,261 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Raleway;
+  margin: 33px auto 0;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 33px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 258px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-video-1 {
+  width: 330px;
+  height: 186px;
+  margin: 0 auto;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 258px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 10px 0;
+}
+
+.u-section-1 .u-video-2 {
+  width: 330px;
+  height: 186px;
+  margin: 0 auto;
+}
+
+.u-section-1 .embed-responsive-2 {
+  position: absolute;
+}
+
+.u-section-1 .u-layout-cell-3 {
+  min-height: 258px;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 6px 0;
+}
+
+.u-section-1 .u-video-3 {
+  width: 330px;
+  height: 186px;
+  margin: 0 auto;
+}
+
+.u-section-1 .embed-responsive-3 {
+  position: absolute;
+}
+
+.u-section-1 .u-layout-cell-4 {
+  min-height: 258px;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px 15px;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: Chilanka;
+  margin: 0 76px 0 0;
+}
+
+.u-section-1 .u-layout-cell-5 {
+  min-height: 258px;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 30px 4px;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: Chilanka;
+  margin: 0 72px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 593px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -37px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 143px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 213px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 313px;
+    height: 176px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 213px;
+  }
+
+  .u-section-1 .u-video-2 {
+    width: 313px;
+    height: 176px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 213px;
+  }
+
+  .u-section-1 .u-video-3 {
+    width: 313px;
+    height: 176px;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 213px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-layout-cell-5 {
+    min-height: 213px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 5px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 515px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -115px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 221px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 163px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 240px;
+    height: 135px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 163px;
+  }
+
+  .u-section-1 .u-video-2 {
+    width: 240px;
+    height: 135px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 163px;
+  }
+
+  .u-section-1 .u-video-3 {
+    width: 240px;
+    height: 135px;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-cell-5 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1399px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 1337px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: -1231px;
+    margin-bottom: 0;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 367px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 367px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 367px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 979px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 707px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: -588px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 231px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 231px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 231px;
+  }
+}
